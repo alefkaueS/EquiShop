@@ -1,6 +1,12 @@
-# Atividade 02 - ScrollReveal em uma Landing Page
+# EquiShop
+Landing Page interativa utilizando ScrollReveal para animações de elementos.
 
-Projeto desenvolvido como atividade da disciplina de Front-End, com o objetivo de aplicar efeitos de animação ao scroll usando a biblioteca **ScrollReveal.js**.
+---
+
+## ScrollReveal em uma Landing Page
+
+Projeto desenvolvido como atividade da disciplina de Front-End, com o objetivo de aplicar efeitos de animação ao scroll usando a biblioteca **ScrollReveal.js**.  
+**Data de desenvolvimento:** Janeiro de 2024
 
 ## 🔹 Tecnologias utilizadas
 - HTML5
@@ -20,4 +26,4 @@ Projeto desenvolvido como atividade da disciplina de Front-End, com o objetivo d
 ## 🔹 Como usar
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/alefkaueS/EquiShop.git
